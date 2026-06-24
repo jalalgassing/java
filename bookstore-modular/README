@@ -116,8 +116,8 @@ java  --module-path mods -m app.ui/com.bookstore.ui.Main
 - ✅ Format pengumpulan: unggah repo ini ke GitHub, lalu tautannya ke LMS.
 - ✅ Kelompok maksimal 3 mahasiswa — isi nama anggota di bawah ini.
 
-| No | Nama | NIM |
-|---|---|---|
-| 1 | _isi nama_ | _isi NIM_ |
-| 2 | _isi nama_ | _isi NIM_ |
-| 3 | _isi nama_ | _isi NIM_ |
+| No |           Nama              |     NIM      |
+|----|-----------------------------|--------------|
+|  1 | Dimas Maycardo Sihotang     | 202333500844 |
+|  2 | Rianca Aril Pratama         | 202333500851 |
+|  3 | Muhammad Jalaluddin Gassing | 202333500858 |
